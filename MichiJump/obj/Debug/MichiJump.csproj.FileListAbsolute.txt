@@ -1,0 +1,10 @@
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.csprojAssemblyReference.cache
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.MichiJump.resources
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.Properties.Resources.resources
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.csproj.GenerateResource.cache
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.csproj.CoreCompileInputs.cache
+D:\UPB\PROGRA 1\MichiJump\MichiJump\bin\Debug\MichiJump.exe.config
+D:\UPB\PROGRA 1\MichiJump\MichiJump\bin\Debug\MichiJump.exe
+D:\UPB\PROGRA 1\MichiJump\MichiJump\bin\Debug\MichiJump.pdb
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.exe
+D:\UPB\PROGRA 1\MichiJump\MichiJump\obj\Debug\MichiJump.pdb
